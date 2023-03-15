@@ -1,0 +1,119 @@
+body{
+    margin:0;
+    display: flex;
+}
+.header{
+    background-color: #CC092f;
+    height: 55px;
+    width:100%;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+
+
+.main{
+
+    margin-left: 20px;
+    margin-top: 15px;
+    width: 23px;
+    height: 22px;
+}
+
+.logo{
+    margin-left: 5px;
+    padding: 5px;
+width: 120px;
+    height: 25px;
+   background-color: white;
+   margin-top: 8px;
+}
+
+h3{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:lighter;
+    margin-left: 15px;
+    font-size: 15px;
+    margin-top: 19px;
+
+}
+
+button{
+    font-size: 14px;
+    margin-top: 10px;
+    height: 38px;
+    margin-left: 20px;
+    width: 170px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+   color: #CC092f;
+}
+.sqr{
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 320px;
+    height: 38px;
+    background-color: white;
+    display: flex;
+}
+
+
+.lupa{
+    margin-left: 3px;
+    margin-top: 8px;
+    width: 22px;
+    height: 22px;
+}
+
+.search{
+    margin-top: 10px;
+}
+
+input{
+    width: 200px;
+    border: none;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+
+}
+
+
+.filter{
+    margin-top: 13px;
+}
+
+
+
+p{
+    color: #CC092f;
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14.6px;
+    margin-left: 5px;
+    margin-top: 11px;
+}
+
+.bell{
+    
+    margin-top: 16px;
+
+
+}
+.user{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: white;
+    
+    margin-top: 13px;
+}
+
